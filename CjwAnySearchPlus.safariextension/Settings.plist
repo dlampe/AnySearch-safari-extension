@@ -74,9 +74,35 @@
 	</dict>
 	<dict>
 		<key>DefaultValue</key>
-		<string>dummy</string>
+		<true/>
 		<key>Key</key>
-		<string>dummy</string>
+		<string>specialDomainsIgnore</string>
+		<key>Title</key>
+		<string>Special Domains ignore?</string>
+		<key>Type</key>
+		<string>CheckBox</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<string>co, coo, lokal</string>
+		<key>Key</key>
+		<string>specialDomainList</string>
+		<key>Title</key>
+		<string>Special Domain List</string>
+		<key>Titles</key>
+		<array/>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>Separator</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>kjsajkhajksdhkash</string>
+		<key>Type</key>
+		<string>Group</string>
 	</dict>
 </array>
 </plist>

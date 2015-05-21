@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Matt Swain</string>
+	<string>Dirk Lampe (CJW Network)</string>
 	<key>Builder Version</key>
-	<string>9537.75.14</string>
+	<string>9537.85.15.3</string>
 	<key>CFBundleDisplayName</key>
-	<string>AnySearch</string>
+	<string>CJW AnySearch Plus</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.matt-swain.anysearch</string>
+	<string>com.cjw-network.cjw-anysearch-plus</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.2</string>
+	<string>0.1</string>
 	<key>CFBundleVersion</key>
-	<string>1.1.2</string>
+	<string>1</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Global Page</key>
@@ -27,7 +27,9 @@
 		<dict/>
 	</dict>
 	<key>Description</key>
-	<string>Use a custom search engine in the Safari address bar, or disable searches completely</string>
+	<string>Use a custom search engine, or disable searches and use own tld's for valid direct requests.</string>
+	<key>DeveloperIdentifier</key>
+	<string>6BWV86DMLV</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
@@ -38,9 +40,7 @@
 			<string>None</string>
 		</dict>
 	</dict>
-	<key>Update Manifest URL</key>
-	<string>http://assets.matt-swain.com/extensions/anysearch.plist</string>
 	<key>Website</key>
-	<string>http://matt-swain.com</string>
+	<string>http://www.cjw-network.com</string>
 </dict>
 </plist>
